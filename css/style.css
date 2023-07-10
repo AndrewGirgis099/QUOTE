@@ -1,0 +1,15 @@
+div h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.my-btn{
+    background-color: rgb(0, 0, 173);
+}
+.my-btn:hover{
+    background-color: rgb(97, 150, 0);
+}
+
+body{
+    background-color: rgb(209, 243, 235);
+}
